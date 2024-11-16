@@ -21,7 +21,7 @@ function App() {
       {/* <Step02 /> */}
       {/* <Step03 /> */}
       {/* <Step04 /> */}
-      {/* <Step05 /> */}
+      <Step05 />
       {/* <Step06 /> */}
       {/* <Step07 /> */}
       {/* <Event01/> */}
