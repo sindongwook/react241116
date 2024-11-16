@@ -27,9 +27,7 @@ function App() {
       {/* <Event01/> */}
       {/* <Event02/> */}
       {/* <Event03/> */}
-      <Event04/>
-
-      
+      {/* <Event04/> */}
     </>
   );
 }
