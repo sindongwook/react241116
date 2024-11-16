@@ -1,24 +1,36 @@
 import logo from './logo.svg';
 import './App.css';
+import Step01 from './step/step01';
+import Step02 from './step/step02';
+import step03 from './step/step03';
+import Step04 from './step/step04';
+import Step05 from './step/step05';
+import Step06 from './step/step06';
+import Step07 from './step/step07';
+import Event01 from './event/event01';
+import Event02 from './event/event02';
+import Event03 from './event/event03';
+import Event04 from './event/event04';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {/* <Step01 /> */}
+      {/* <Step02 /> */}
+      {/* <Step03 /> */}
+      {/* <Step04 /> */}
+      {/* <Step05 /> */}
+      {/* <Step06 /> */}
+      {/* <Step07 /> */}
+      {/* <Event01/> */}
+      {/* <Event02/> */}
+      {/* <Event03/> */}
+      <Event04/>
+
+      
+    </>
   );
 }
 
