@@ -22,7 +22,7 @@ const Step07 = () => {
 
   return (
     <>
-        <p>카운트 : </p>
+        <p>카운트 : {count}</p>
         <button onClick={()=>setCount(count+1)}>CLICK</button>
     </>
   )
